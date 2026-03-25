@@ -6,7 +6,8 @@ body {
 }
 
 .p1 {
-    max-width: 950px;
+    max-width: 600px;
+    line-height: 1.6;
 }
 
 ul {
