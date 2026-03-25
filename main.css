@@ -5,9 +5,9 @@ body {
     color: #00a6ce;
 }
 
-.p1{
-    height: 350px;
-    width: 950px;
+.p1 {
+    max-width: 950px;
+    margin-bottom: 20px;
 }
 
 ul {
